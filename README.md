@@ -49,4 +49,11 @@
 <!-- GitHub 奖杯🏆 -->
 <div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Yogurt-needs-straw&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
+<!-- first form 第一个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+  </tr>
+</table>
+
 
