@@ -33,7 +33,7 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <picture align="center">
-  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
+  <source align="rigth" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
   <source align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
 </picture>
