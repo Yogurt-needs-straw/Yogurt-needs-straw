@@ -31,6 +31,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yogurt-needs-straw&repo=Django-TracerProjectManagementPlatform&theme=synthwave)](https://github.com/Yogurt-needs-straw/Django-TracerProjectManagementPlatform)
 
-### 📈 Github 活跃度
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogurt-needs-straw&show_icons=true&theme=tokyonight)
+### 📈 代码
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogurt-needs-straw&layout=compact)](https://github.com/Yogurt-needs-straw/github-readme-stats)
 
