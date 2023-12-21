@@ -50,4 +50,4 @@
 <div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Yogurt-needs-straw&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- just img 图片 -->
-[<img align="center" src="https://cdn.jsdelivr.net/gh/Yogurt-needs-straw/Yogurt-needs-straw/blob/main/images/mb.png" width="250" height="250" />](https://github.com/Yogurt-needs-straw/Yogurt-needs-straw/blob/main/images/mb.png)
+<img src="https://github.com/Yogurt-needs-straw/Yogurt-needs-straw/blob/main/images/mb.png" width="250" height="250" />
