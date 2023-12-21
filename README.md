@@ -27,6 +27,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<picture align="center">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
+  <source align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
+</picture>
+
+
 ### ⭐ 开源项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yogurt-needs-straw&repo=Django-TracerProjectManagementPlatform&theme=synthwave)](https://github.com/Yogurt-needs-straw/Django-TracerProjectManagementPlatform)
@@ -34,12 +42,5 @@
 ### 📈 代码
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogurt-needs-straw&layout=compact)](https://github.com/Yogurt-needs-straw/github-readme-stats)
 
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div></div>
-<picture align="right">
-  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
-  <source align="right" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
-</picture>
 
 
