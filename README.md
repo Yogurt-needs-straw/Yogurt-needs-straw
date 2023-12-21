@@ -32,10 +32,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yogurt-needs-straw&repo=Django-TracerProjectManagementPlatform&theme=synthwave)](https://github.com/Yogurt-needs-straw/Django-TracerProjectManagementPlatform)
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<picture align="center">
+<picture align="rigth">
   <source align="rigth" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
-  <source align="center" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
+  <source align="rigth" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
+  <img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
 </picture>
 
 
