@@ -35,10 +35,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogurt-needs-straw&layout=compact)](https://github.com/Yogurt-needs-straw/github-readme-stats)
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div></div>
 <picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
+  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=dark&hide_border=true" />
+  <source align="right" media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=light&hide_border=true" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogurt-needs-straw&theme=default&hide_border=true" />
 </picture>
 
 
