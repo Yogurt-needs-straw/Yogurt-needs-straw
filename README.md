@@ -45,9 +45,9 @@
 
 <!-- Quotes 名人名言 -->
 <div align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+<br/><br/>
 <!-- GitHub 奖杯🏆 -->
-<div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Yogurt-needs-straw&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/><br/><br/></div>
+<div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Yogurt-needs-straw&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- just img 图片 -->
 <!--
